@@ -60,3 +60,4 @@
 2025-04-20 13:14:58 optimize queries
 2025-01-25 10:11:42 update documentation
 2025-01-01 08:18:49 fix bug
+2025-03-17 20:48:33 update docs with examples
