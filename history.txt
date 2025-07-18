@@ -84,3 +84,4 @@
 2025-07-10 04:31:08 fix async issue
 2025-08-31 08:18:24 update docs with examples
 2025-11-15 19:32:54 update version
+2025-07-18 18:41:56 change configuration
