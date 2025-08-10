@@ -100,3 +100,4 @@
 2025-04-19 00:54:00 improve performance
 2025-10-15 09:44:10 fix broken link
 2025-05-25 03:28:52 rebuild project
+2025-08-10 11:35:56 update LICENSE
