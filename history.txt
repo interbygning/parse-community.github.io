@@ -82,3 +82,4 @@
 2025-03-29 00:10:41 add helper function
 2025-03-23 01:00:02 add fallback
 2025-07-10 04:31:08 fix async issue
+2025-08-31 08:18:24 update docs with examples
