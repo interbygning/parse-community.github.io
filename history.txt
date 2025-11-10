@@ -43,3 +43,4 @@
 2025-08-10 22:33:54 update build script
 2025-05-09 17:44:55 add integration tests
 2025-12-09 05:37:53 fix broken link
+2025-11-10 12:55:06 improve UX
